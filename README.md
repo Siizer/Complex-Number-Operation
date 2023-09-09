@@ -1,5 +1,5 @@
 # Complex-Number-Operation
-<p>JavaScript module providing comprehensive suite of functions for complex number operations customized for Electriical Power Networks.</p>
+<p>JavaScript module providing comprehensive suite of functions for complex number operations customized for Electrical Power Networks.</p>
 <p>Here's a breakdown:</p>
 <ul>
 <li>
